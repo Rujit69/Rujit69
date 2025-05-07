@@ -1,85 +1,60 @@
-```markdown
-# Rujit Shrestha
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2 align="center">About Me 🚀</h2>
+<h2> Hey there! I'm Rujit Shrestha</h2>
 
-I’m an engineering student passionate about coding, fitness, and building innovative applications that blend machine learning with real-world solutions. Always eager to learn new technologies and collaborate in dynamic teams.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
----
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-## 🛠️ Skills & Technologies
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- **Programming Languages:** C, C++, Assembly, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries:** React, React Native, Node.js, Express, Vite
-- **Front-End:** Tailwind CSS, shadcn/ui, Expo (React Native)
-- **Back-End:** MongoDB, RESTful APIs, MERN Stack
-- **Machine Learning:** Basic TensorFlow/PyTorch concepts, image processing
-- **Data Structures & Algorithms:** Implementation of core DSA concepts in low-level languages
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
----
+<br/>
 
-## 💼 Key Projects
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rujit69&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujit69&theme=buefy&layout=compact" />
+</a>
 
-### AI Image Face Detection Web App
-- Built with React and Vite
-- Integrated a machine learning model for real-time face detection and bounding-box visualization
-- Designed responsive UI and optimized performance for web deployment
+<br/>
 
-### Workout Tracker App
-- Developed using React Native and Expo
-- Implements modular routines, exercises, and sets with full CRUD operations
-- Styled with Tailwind CSS and shadcn/ui components for a clean and intuitive interface
-- Features modal dialogs for adding/editing workouts and confirmation on deletions
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
----
 
-## 📚 Current Focus & Learning
 
-- Preparing for end-of-semester exams and deepening understanding of advanced DSA
-- Exploring deeper machine learning integration into fitness applications
-- Enhancing UI/UX skills using modern component libraries and animation with Framer Motion
-
----
-
-## 🤝 Collaboration
-
-I’ve had the pleasure of working with:
-- **Rujit**
-- **Roshna**
-- **Kalya**
-- **Sandhya**
-
-Always open to teaming up on open-source projects or research endeavors!
-
----
-
-## 🎯 Personal Goals & Interests
-
-- Build a full-featured AI-powered fitness generation tool
-- Contribute to open-source ML projects
-- Balance academic life with consistent gym workouts—currently focusing on strength and recovery
-
----
-
-## 📫 Reach Out
-
-Feel free to connect if you’d like to collaborate or chat about technology and fitness:
-
-`angel.jaime@example.com`  |  `@angel-jaime` on GitHub
-
----
-
-<h2 align="center">GitHub Stats 📊</h2>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Visitor's Count" />
+<a href="https://www.instagram.com/rujit_shrestha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="rujit33@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="Profile Stats" />
-</p>
-
----
-
-<p align="center">👾 Keep Learning & Growing!</p>
-```
+⭐️
