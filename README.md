@@ -40,8 +40,8 @@
 <br/>
 
 <a href="https://github.com/Rujit69">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rujit69&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujit69&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rujit69&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujit69&theme=buefy&layout=compact&langs_count=20" />
 </a>
 
 <br/>
