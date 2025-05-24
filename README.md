@@ -42,7 +42,7 @@
 <a href="https://github.com/Rujit69">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rujit69&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujit69&theme=buefy&layout=compact&langs_count=20" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rujit69&theme=buefy&layout=compact&langs_count=20&size_weight=0&count_weight=1" />
+
 
 </a>
 
